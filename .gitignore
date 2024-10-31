@@ -1,0 +1,22 @@
+# IntelliJ and Maven
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+target/
+
+# Logs
+*.log
+
+# Application YAML files
+application.yml
+
+# Compiled class files
+*.class
+
+# Other
+.DS_Store
+*.jar
+*.war
+*.zip
